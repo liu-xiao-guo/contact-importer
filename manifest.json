@@ -1,0 +1,17 @@
+{
+    "name": "contact-importer.liu-xiao-guo",
+    "description": "description of contact-importer",
+    "architecture": "all",
+    "title": "contact-importer",
+    "hooks": {
+        "contact-importer": {
+            "apparmor": "contact-importer.apparmor",
+            "desktop":  "contact-importer.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

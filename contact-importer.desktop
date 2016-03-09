@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=contact-importer
+Exec=qmlscene $@ Main.qml
+Icon=contact-importer.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
